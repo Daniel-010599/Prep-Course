@@ -1,0 +1,17 @@
+h1{
+    color:#00B090;
+}
+#spanId{
+    font-size:18px;
+    margin:50px;
+}
+#thirdDiv{
+    width:500px;
+    height:600px;
+    background-color:#3BA4E8;
+    padding:50px;
+    border:2px solid #006CB3;
+}
+#thirdDiv ul li img{
+    width:400px;
+}
